@@ -6,6 +6,7 @@
 - P01_HolaMundo.java
 - P02_AreaCirculo.java
 - P03_AreaTriangulo.java
+- P04_PagaTrabajador.java
 
 ## Actividad 2
 - programa 1
