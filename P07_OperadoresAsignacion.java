@@ -1,4 +1,4 @@
-// P07_OperadoresAsignacion realiza operaciones usando los diferentes operadores de asignacion
+// P07_OperadoresAsignacion realiza operaciones usando los diferentes operadores de asignacion.
 
 import java.util.Scanner;
 
