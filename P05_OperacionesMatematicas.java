@@ -1,4 +1,4 @@
-// P05_OperacionesMatematicas hace operaciones matemáticas básicas
+// P05_OperacionesMatematicas hace operaciones matemáticas básicas.
 
 public class P05_OperacionesMatematicas{
     public static void main(String[] args) {
