@@ -1,4 +1,4 @@
-// Calcula funciones trigonometricas de un angulo en radianas
+// Calcula funciones trigonometricas de un angulo en radianas.
 
 import java.util.Scanner;
 public class P08_FuncionesTrigonometricas {
