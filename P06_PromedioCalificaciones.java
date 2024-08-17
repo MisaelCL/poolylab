@@ -1,4 +1,4 @@
-// P06_PromedioCalificaciones calcula el promedio de tres calificaciones, calcula también la mayor y la menor
+// P06_PromedioCalificaciones calcula el promedio de tres calificaciones, calcula también la mayor y la menor.
 
 import java.util.Scanner;
 
