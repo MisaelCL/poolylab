@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class p07_OperadoresAsignacion {
+public class P07_OperadoresAsignacion {
     public static void main(String[] args) {
         System.out.print("\033[H\033[2J"); System.out.flush(); // Borra pantalla de la consola
         System.out.print("Dame un numero: ");
