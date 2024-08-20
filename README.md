@@ -9,8 +9,16 @@
 - P04_PagaTrabajador.java
 
 ## Actividad 2
-- programa 1
-- Programa 2
+- P05_OperacionesMatematicas.java
+- P06_PromedioCalificaciones.java
+- P07_OperadoresAsignacion.java
+- P08_FuncionesTrigonometricas.java
+- P09_DividirEnCifras.java
 
 ## Actividad 3
-- programa 1
+- P10_HipotenusaTriangulo.java
+- P11_CalcularAngulo.java
+- P12_VolumenCilindro.java
+- P13_ConvertirTemperatura.java
+- P14_CalculoTiempo.java
+- P15_ConvertirADolares.java
