@@ -8,7 +8,7 @@ public class P14_CalculoTiempo {
         float dias, minutos, segundos;
 
         Scanner obj = new Scanner(System.in);
-
+//
         System.out.println("Dame las horas a calcular en dias, minutos y segundos;"); horas = obj.nextInt();
 
         dias = horas/24;

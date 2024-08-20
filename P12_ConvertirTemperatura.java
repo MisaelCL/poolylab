@@ -1,5 +1,5 @@
 //Convierte una temperatura de grados fahrenheit a grados celsius
-
+//
 import java.util.Scanner;
 
 public class P12_ConvertirTemperatura {

@@ -1,6 +1,6 @@
 //Calcula la hipotenusa de un triangulo rectangulo dadas las longitudes de sus lados
 import java.util.Scanner;
-
+//
 
 public class P10_HipotenusaTriangulo {
     public static void main(String[] args) {

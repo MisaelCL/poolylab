@@ -15,4 +15,8 @@ public class P07_OperadoresAsignacion {
         System.out.printf("Dividir entre 4 : %.2f \n", num/=4);
         System.out.printf("Decrementar 1 : %.2f \n", --num);
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0fbae7d1ce9b5cc5e9825437474cd2ceb3dbc0ec

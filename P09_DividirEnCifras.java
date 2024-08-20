@@ -17,4 +17,8 @@ public class P09_DividirEnCifras {
         System.out.println("Unidades : " + unidades);
         
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0fbae7d1ce9b5cc5e9825437474cd2ceb3dbc0ec

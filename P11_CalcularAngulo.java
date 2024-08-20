@@ -1,6 +1,6 @@
 //Calcula el 3er angulo de un trianguiodados los dos primeros anfulos del mismo
 import java.util.Scanner;
-
+//
 public class P11_CalcularAngulo {
     public static void main(String[] args) {
         double angulo1, angulo2, angulo3;

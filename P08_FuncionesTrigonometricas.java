@@ -15,4 +15,8 @@ public class P08_FuncionesTrigonometricas {
 
         System.out.println(String.format("El angulo es: %.2f, Seno: %.2f, Coseno: %.2f, Tangente: %.2f",angulor,sen,cos,tan));
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0fbae7d1ce9b5cc5e9825437474cd2ceb3dbc0ec
