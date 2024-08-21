@@ -16,13 +16,14 @@
 - P09_DividirEnCifras.java
 
 ## Actividad 3
-<<<<<<< HEAD
 - P10_HipotenusaTriangulo.java
 - P11_CalcularAngulo.java
 - P12_VolumenCilindro.java
 - P13_ConvertirTemperatura.java
 - P14_CalculoTiempo.java
 - P15_ConvertirADolares.java
-=======
-- programa 1
->>>>>>> 0fbae7d1ce9b5cc5e9825437474cd2ceb3dbc0ec
+- P16_TrabajandoEnteros.java
+- P17_TrabajandoFlotantes.java
+- P18_TrabajandoConstantes.java
+- P19_TrabajandoCaracteres.java
+- P20_ConversionTipos.java
