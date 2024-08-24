@@ -34,3 +34,9 @@
 - P22_VerificarSuma.java
 - P23_ConvertirTemperatura.java
 - P24_PagaTrabajador.java
+
+## ACTIVIDAD 5
+- P25_EstacionesAño.java
+- P26_TipoAngulo.java
+- P27_AceptarEstudiante.java
+- P28_LeyDeNewton.java
