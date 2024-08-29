@@ -46,3 +46,11 @@
 - P30_DiaSemana.java
 - P31_NumerosRomanos.java
 - P32_PagoEstacionamiento.java
+
+## Practica 2 Ejecucion condicional
+- P33_NumerosConsecutivos.java
+- P34_NumeroMayor.java
+- P35_ContinentesMundo.java
+- P36_CompraPizza.java
+- P37_CalculoNotas.java
+- P38_AceptarEstudianteV2.java
