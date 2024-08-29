@@ -54,3 +54,10 @@
 - P36_CompraPizza.java
 - P37_CalculoNotas.java
 - P38_AceptarEstudianteV2.java
+
+## Actividad 7 parte 1
+- P39_Numeros1a100
+- P40_Numeros100a1
+- P41_ProcesaCalificaciones
+- P42_TablaMultiplicar
+- P43_ConteoNumeros
