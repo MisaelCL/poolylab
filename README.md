@@ -56,8 +56,14 @@
 - P38_AceptarEstudianteV2.java
 
 ## Actividad 7 parte 1
-- P39_Numeros1a100
-- P40_Numeros100a1
-- P41_ProcesaCalificaciones
-- P42_TablaMultiplicar
-- P43_ConteoNumeros
+- P39_Numeros1a100.java
+- P40_Numeros100a1.java
+- P41_ProcesaCalificaciones.java
+- P42_TablaMultiplicar.java
+- P43_ConteoNumeros.java
+
+## Actividad 8 parte 2
+- P44_ParesAscendentes.java
+- P45_ImparesDescendente.java
+- P46_TablaConversion.java
+- P47_ConjeturCollatz.java
