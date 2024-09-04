@@ -67,3 +67,9 @@
 - P45_ImparesDescendente.java
 - P46_TablaConversion.java
 - P47_ConjeturCollatz.java
+
+## Practica 3 while
+- P48_ImparesAscendente.java
+- P49_ParesDescendente.java
+- P50_ConversionTemperaturas.java
+- P51_SerieFibonaci.java
