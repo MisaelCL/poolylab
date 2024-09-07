@@ -86,3 +86,9 @@
 - P58_Piramide.java
 - P59_FactorialNumeros.java
 - P60_SumaTerminos.java
+
+## Practica 4 for
+- P61_SecuenciaNumeros1
+- P62_SecuenciaNumeros2
+- P63_SumaTerminos1
+- P64_SumaTerminos2
