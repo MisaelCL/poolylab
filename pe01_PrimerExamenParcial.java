@@ -1,6 +1,3 @@
-//SIMULA UN CONTADOR DE VENTAS
-//Escobedo Aguilera Karla Karina
-
 import java.util.Scanner;
 
 public class pe01_PrimerExamenParcial {
@@ -66,11 +63,6 @@ public class pe01_PrimerExamenParcial {
             }else 
             System.out.print("fuiste rechazado...");
             
-
-            int Can = 0;
-
-            ToVen += Can;
-            CaVen++;
             System.out.println("\n¿Otro participante? (S/N)");
             resp = Character.toUpperCase(obj.next().charAt(0));
             Ven++;
