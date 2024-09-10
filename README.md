@@ -92,3 +92,6 @@
 - P62_SecuenciaNumeros2
 - P63_SumaTerminos1
 - P64_SumaTerminos2
+
+## Practica 5 Primer parcial
+- P65_PracticaPrimerParcial.java
