@@ -95,3 +95,10 @@
 
 ## Practica 5 Primer parcial
 - P65_PracticaPrimerParcial.java
+
+## Actividad 11 parte 1
+- P66_PromedioNumeros.java
+- P67_ConversionTemperaturas.java
+- P68_SumaRango.java
+- P69_TablaMultiplicar.java
+- P70_CalificacionLetra.java
