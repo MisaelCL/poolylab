@@ -108,4 +108,11 @@
 - P72_SumaDigitos.java
 - P73_SumaParesImpares.java
 - P74_Factorial.java
-- P75_CuadroCaracter.java 
+- P75_CuadroCaracter.java
+
+## PRACTICA 6 funciones
+- P76_NumeroMenor.java
+- P77_DiaSemana.java
+- P78_MedidasLongitud.java
+- P79_SumaMultiplos.java
+- P80_Angulo.java
